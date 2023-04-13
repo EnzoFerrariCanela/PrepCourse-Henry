@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de pruebas del modulo 2 de henry
+Esta es una prueba de como hacer un repertorio y abrirlo en mi computadora.
